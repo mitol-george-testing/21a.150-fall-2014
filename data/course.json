@@ -1,0 +1,53 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Teaching and Education"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "7768c26c-eca1-2f3a-74e6-dda1ddb5c354"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Teaching and Learning: Cross-Cultural Perspectives",
+  "course_description": "This course explores the diverse ways that people teach and learn\u2014in different countries, in different disciplines, and in different subcultures. We will discuss how theories of learning can be applied to a variety of hands-on, in-class learning activities. We compare schooling to other forms of knowledge transmission from initiation and apprenticeship to recent innovations in online education such as MOOCs. Students will employ a range of qualitative methods in conducting original research on topics of their choice.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.150",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
